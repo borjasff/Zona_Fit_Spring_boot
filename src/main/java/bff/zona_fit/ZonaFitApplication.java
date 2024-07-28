@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Scanner;
 
 
-@SpringBootApplication
+//@SpringBootApplication
 public class ZonaFitApplication implements CommandLineRunner {
 
 	@Autowired
